@@ -1,0 +1,10 @@
+D:\Zadace\RTBK\RichTextBoxKontrola\bin\Debug\RichTextBoxKontrola.exe.config
+D:\Zadace\RTBK\RichTextBoxKontrola\bin\Debug\RichTextBoxKontrola.exe
+D:\Zadace\RTBK\RichTextBoxKontrola\bin\Debug\RichTextBoxKontrola.pdb
+D:\Zadace\RTBK\RichTextBoxKontrola\obj\Debug\RichTextBoxKontrola.csprojAssemblyReference.cache
+D:\Zadace\RTBK\RichTextBoxKontrola\obj\Debug\RichTextBoxKontrola.Form1.resources
+D:\Zadace\RTBK\RichTextBoxKontrola\obj\Debug\RichTextBoxKontrola.Properties.Resources.resources
+D:\Zadace\RTBK\RichTextBoxKontrola\obj\Debug\RichTextBoxKontrola.csproj.GenerateResource.cache
+D:\Zadace\RTBK\RichTextBoxKontrola\obj\Debug\RichTextBoxKontrola.csproj.CoreCompileInputs.cache
+D:\Zadace\RTBK\RichTextBoxKontrola\obj\Debug\RichTextBoxKontrola.exe
+D:\Zadace\RTBK\RichTextBoxKontrola\obj\Debug\RichTextBoxKontrola.pdb
